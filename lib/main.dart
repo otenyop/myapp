@@ -2,7 +2,7 @@
 //This is a test app for flutter
 //This has been added in the development branch
 //Additional comment added
-//Added in the features/syncing branch
+//Added in the features/syncing branch...another synch
 import 'package:flutter/material.dart';
 
 void main(){
